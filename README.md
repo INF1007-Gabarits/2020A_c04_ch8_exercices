@@ -15,7 +15,7 @@ Compléter les quelques exercices suivants en modifiant le code de [exercice.py]
 
 3. Écrire un programme qui lit chaque ligne d’un fichier notes.txt (chaque ligne contient une note en pourcentage) et qui réécrit, dans un nouveau fichier, les notes avec, à coté, les mentions « A », « B », etc. en fonction d’un tableau de correspondance fourni.
 
-4. Reprenez l’exercice du livre de recettes et créer une base de données dans un fichier qui permet d’ajouter, modifier, supprimer des recettes. Vous êtes libre de choisir le type de format de fichier.
+4. Reprenez l’exercice du livre de recettes (recettes.py) et créer une base de données dans un fichier qui permet d’ajouter, modifier, supprimer des recettes. Vous êtes libre de choisir le type de format de fichier.
 
 5. Écrire un programme qui lit un fichier texte [exemple.txt](exemple.txt) et retourne une liste de tous les nombres présents dans le fichier, en ordre croissant. 
 
